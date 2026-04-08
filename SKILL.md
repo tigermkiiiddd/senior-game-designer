@@ -112,7 +112,7 @@ docs/
 │   ├── breadth.md
 │   ├── depth.md
 │   └── concept.md
-├── 01_top_design/       # Top Game Design Doc + 三张图（含推论）
+├── 01_top_design/       # Top Game Design Doc + 三张图 + 系统清单（含推论）
 │   ├── constraint.md
 │   ├── breadth.md
 │   ├── depth.md
@@ -122,7 +122,7 @@ docs/
 │   ├── breadth.md
 │   ├── depth.md
 │   └── architecture.md
-├── 03_combat/           # 战斗系统（独立）
+├── 03_system_01/        # 子系统1（根据顶层系统清单命名，如：探索/养成/关卡/战斗...）
 │   ├── constraint.md    # 推论：约束分析
 │   ├── breadth.md       # 推论：广度探索
 │   ├── depth.md         # 推论：深度收敛
@@ -130,14 +130,9 @@ docs/
 │   ├── execution.md     # 执行：执行级文档
 │   ├── numbers.md       # 执行：数值配表
 │   └── content.md       # 执行：内容配置表
-├── 04_economy/          # 经济系统（独立）
-│   ├── constraint.md
-│   ├── breadth.md
-│   ├── depth.md
-│   ├── design.md
-│   ├── execution.md
-│   └── numbers.md
-├── 05_social/           # 社交系统（独立）
+├── 04_system_02/        # 子系统2
+│   └── ...
+├── 05_system_03/        # 子系统3
 │   └── ...
 ├── 06_ui/               # UI/UX 总文档
 ├── 07_monetization/     # 商业化文档
