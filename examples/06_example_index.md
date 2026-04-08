@@ -8,7 +8,8 @@
 
 | 示例文件 | 涉及的 References | 用途 |
 |---------|-----------------|------|
-| `01_top_example.md` | `mda-framework.md` | 核心循环图 + 穷举变体 |
+| `00_concept_template.md` | `synergy-thematic-design.md` · `visual-player-guidance.md` | 题材审视 · 画风审视 · 内容推进形式 |
+| `01_top_example.md` | `mda-framework.md` · `synergy-thematic-design.md` · `visual-player-guidance.md` | 核心循环图 + 穷举变体 + 题材/画风审视 + 内容推进 |
 | `02_constraint_template.md` | `mda-framework.md` · `synergy-thematic-design.md` | 顶层一致性 · 决策矩阵 |
 | `03_breadth_template.md` | `mda-framework.md` · `synergy-thematic-design.md` · `game-competency-puzzle-design.md` | 三步穷举 · 边界测试 |
 | `04_depth_template.md` | `flow-state-design-framework.md` · `experience-pacing-structure.md` · `player-psychology-decisions.md` · `lazzaro-four-keys.md` | 心流 · 节奏 · 心理偏差 · 多巴胺/内啡肽 |
